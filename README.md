@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wmaradiaga
 - 🇬🇹 I'm from Guatemala
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Remix and GraphQL
 - 💼 Fullstack Engineer @ Pflegia
 
 
